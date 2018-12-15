@@ -1,0 +1,1 @@
+First create a database called onlineticket.Then import retsiger.sql and retsiger(1).sql
